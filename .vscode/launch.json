@@ -1,0 +1,35 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Questao_1",
+      "request": "launch",
+      "mainClass": "Questao_1",
+      "projectName": "Est-gioRibeir-oPreto-2024_7bbc3e62"
+    },
+    {
+      "type": "java",
+      "name": "Questao_2",
+      "request": "launch",
+      "mainClass": "Questao_2",
+      "projectName": "Est-gioRibeir-oPreto-2024_7bbc3e62"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Questoes",
+      "request": "launch",
+      "mainClass": "Questoes",
+      "projectName": "Est-gioRibeir-oPreto-2024_7bbc3e62"
+    }
+  ]
+}
