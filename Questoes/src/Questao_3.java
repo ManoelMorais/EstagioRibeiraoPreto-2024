@@ -1,6 +1,6 @@
 public class Questao_3 {
 
-        // Não fiz os códigos porque iria virar um loope no pc kkkk
+        // Não fiz os códigos porque iria virar um loop no pc kkkk
         
         // A sequência é uma progressão aritmética com razão 2.
         // A = 1,3,5,7,9

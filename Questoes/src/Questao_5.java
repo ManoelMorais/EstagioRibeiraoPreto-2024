@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Questao_5 {
   public static void main(String[] args) {
-
     Scanner sc = new Scanner(System.in);
+
     System.out.print("Digite uma string: ");
     String text = sc.nextLine();
 
